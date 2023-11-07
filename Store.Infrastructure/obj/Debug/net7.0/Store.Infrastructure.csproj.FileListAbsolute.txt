@@ -1,0 +1,17 @@
+C:\BS23\Personal\CleanArchitecture\CleanArchitecture\Store.Infrastructure\bin\Debug\net7.0\Store.Infrastructure.deps.json
+C:\BS23\Personal\CleanArchitecture\CleanArchitecture\Store.Infrastructure\bin\Debug\net7.0\Store.Infrastructure.dll
+C:\BS23\Personal\CleanArchitecture\CleanArchitecture\Store.Infrastructure\bin\Debug\net7.0\Store.Infrastructure.pdb
+C:\BS23\Personal\CleanArchitecture\CleanArchitecture\Store.Infrastructure\bin\Debug\net7.0\Store.ApplicationCore.dll
+C:\BS23\Personal\CleanArchitecture\CleanArchitecture\Store.Infrastructure\bin\Debug\net7.0\Store.ApplicationCore.pdb
+C:\BS23\Personal\CleanArchitecture\CleanArchitecture\Store.Infrastructure\obj\Debug\net7.0\Store.Infrastructure.csproj.AssemblyReference.cache
+C:\BS23\Personal\CleanArchitecture\CleanArchitecture\Store.Infrastructure\obj\Debug\net7.0\Store.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\BS23\Personal\CleanArchitecture\CleanArchitecture\Store.Infrastructure\obj\Debug\net7.0\Store.Infrastructure.AssemblyInfoInputs.cache
+C:\BS23\Personal\CleanArchitecture\CleanArchitecture\Store.Infrastructure\obj\Debug\net7.0\Store.Infrastructure.AssemblyInfo.cs
+C:\BS23\Personal\CleanArchitecture\CleanArchitecture\Store.Infrastructure\obj\Debug\net7.0\Store.Infrastructure.csproj.CoreCompileInputs.cache
+C:\BS23\Personal\CleanArchitecture\CleanArchitecture\Store.Infrastructure\obj\Debug\net7.0\Store.Infrastructure.csproj.CopyComplete
+C:\BS23\Personal\CleanArchitecture\CleanArchitecture\Store.Infrastructure\obj\Debug\net7.0\Store.Infrastructure.dll
+C:\BS23\Personal\CleanArchitecture\CleanArchitecture\Store.Infrastructure\obj\Debug\net7.0\refint\Store.Infrastructure.dll
+C:\BS23\Personal\CleanArchitecture\CleanArchitecture\Store.Infrastructure\obj\Debug\net7.0\Store.Infrastructure.pdb
+C:\BS23\Personal\CleanArchitecture\CleanArchitecture\Store.Infrastructure\obj\Debug\net7.0\ref\Store.Infrastructure.dll
+C:\BS23\Personal\CleanArchitecture\CleanArchitecture\Store.Infrastructure\bin\Debug\net7.0\Store.Infrastructure.runtimeconfig.json
+C:\BS23\Personal\CleanArchitecture\CleanArchitecture\Store.Infrastructure\obj\Debug\net7.0\Store.Infrastructure.genruntimeconfig.cache
